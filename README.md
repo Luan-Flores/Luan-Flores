@@ -1,5 +1,5 @@
 # Oi! Sou o Luan Flôres
-## 💻 Web Developer
+## 💻 Developer
 ### Atualmente, estou cursando:
 • 👨‍🎓 Ciênca dos Dados; <br>
 • 📚 Técnico em Desenvolvimento de Sistemas; <br>
