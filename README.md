@@ -3,6 +3,8 @@
 ### Atualmente, estou cursando:
 • 👨‍🎓 Ciência dos Dados; <br>
 • 📚 Técnico em Desenvolvimento de Sistemas; <br>
+• 📚 Acesse meu portfólio: https://luan-flores.github.io/MeuPortfolio/ <br>
+<a href="https://luan-flores.github.io/MeuPortfolio/">Portfólio</a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
